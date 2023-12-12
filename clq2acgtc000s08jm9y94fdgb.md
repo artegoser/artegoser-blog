@@ -11,15 +11,6 @@ tags: proxy, web-development, security, nodejs, webdev, selfhosted, selfhosting
 
 ---
 
-```javascript
-const credit = {
-    translatedBy: "artegoser",
-    source: ["https://t.me/dcat09/357", "https://t.me/dcat09/358"],
-    author: "DarkCat09",
-    license: "CC-BY 4.0"
-}
-```
-
 Welcome to the modern web: sites here load for **5-10 seconds**, show **at least** two overlapping modal windows with a request to register and subscribe, collect analytical data, leave for a block of text a couple of pixels - and why do we need it, the most important thing on the page is video advertising and panels with a request to register, subscribe, and in the worst case there is a useful site menu.
 
 Everyone should have a supercomputer with a million gigabytes of RAM and preferably the same amount of space for cache files. A processor with at least 32 cores. What are you saying, you don't have one? You're not worthy of clicking on Google's links! Even your smartphone hints at this with a browser crash due to perfectly optimized scripts and CSS animations. Well, yes, you can't read text without JS, but what do you want?
@@ -81,3 +72,12 @@ Source code: GitHub ([https://github.com/txtdot/txtdot](https://github.com/txtdo
 Official instances: [https://txt.dc09.ru](https://txt.dc09.ru) [https://txt.artegoser.ru](https://txt.artegoser.ru)
 
 Documentation: GitHub Pages ([https://txtdot.github.io/documentation](https://txtdot.github.io/documentation))
+
+```javascript
+const credit = {
+    translatedBy: "artegoser",
+    source: ["https://t.me/dcat09/357", "https://t.me/dcat09/358"],
+    author: "DarkCat09",
+    license: "CC-BY 4.0"
+}
+```
