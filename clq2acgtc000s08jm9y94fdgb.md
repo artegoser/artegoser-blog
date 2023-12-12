@@ -5,8 +5,7 @@ seoDescription: "Welcome to the modern web: sites here load for 5-10 seconds, sh
 datePublished: Tue Dec 12 2023 11:54:56 GMT+0000 (Coordinated Universal Time)
 cuid: clq2acgtc000s08jm9y94fdgb
 slug: welcome-to-modern-web
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702380749138/e4b3ef54-84e1-4aa0-ab76-7f131f173429.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1702381989272/d3669d72-43f3-4ea0-9481-f5a17cbdfca3.png
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2FaCKyEEtis/upload/324f241c736634b8bcfe4ff92ab2751f.jpeg
 tags: proxy, web-development, security, nodejs, webdev, selfhosted, selfhosting
 
 ---
