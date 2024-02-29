@@ -3,11 +3,9 @@ title: "Welcome to modern web"
 seoTitle: "Welcome to the modern web or why we need site compressors"
 seoDescription: "Welcome to the modern web: sites here load for 5-10 seconds, show at least two overlapping modal windows, etc. That's where site compressors come in."
 datePublished: Tue Dec 12 2023 11:54:56 GMT+0000 (Coordinated Universal Time)
-cuid: clq2acgtc000s08jm9y94fdgb
 slug: welcome-to-modern-web
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2FaCKyEEtis/upload/324f241c736634b8bcfe4ff92ab2751f.jpeg
 tags: express, proxy, web-development, security, nodejs, webdev, typescript, fastify, devstory, selfhosted, selfhosting
-
 ---
 
 Welcome to the modern web: sites here load for **5-10 seconds**, show **at least** two overlapping modal windows with a request to register and subscribe, collect analytical data, leave for a block of text a couple of pixels - and why do we need it, the most important thing on the page is video advertising and panels with a request to register, subscribe, and in the worst case there is a useful site menu.
@@ -27,11 +25,8 @@ Wait. Right, I only need the main text. The reading mode from Firefox handles th
 This way we will save a lot of traffic, because:
 
 1. The client does not load the original HTML in its entirety, where there may be huge menus, and minus 500 kilobytes of header/footer removal is quite a lot;
-    
 2. The client doesn't load the original CSS, in case of frames like Tailwind the savings are especially noticeable;
-    
 3. and most importantly - the client does not execute dozens of heavy scripts on JS, usually loading something else additionally or embedding blocks of video ads (this is generally evil, only site admins do not get it).
-    
 
 "Village, mobile internet, weak laptop," - the preface is not about me, but about my friend [@megahomyak](https://t.me/megahomyak), who needed such a proxy server based on Readability.
 
@@ -43,14 +38,10 @@ The project framework was written by @artegoser. At first the project was on exp
 
 My idea was only to use Readability, but thanks again to @artegoser, the code was extensible, he was planning from the beginning to add other parsing engines besides Mozilla's Readability. Now you can assign a specific engine to individual domains. If the domain is not found in the list, we use Readability. Ah, yes, an engine is simply a function that takes a JSDOM library object and returns an IHandlerOutput object that consists of fields:
 
-* content - extracted content as HTML, that is, with all links, images, tables...
-    
-* textContent - extracted text; essentially content, but without html tags.
-    
-* title - page title from the corresponding tag in the head.
-    
-* lang - two-letter code of the page language, Readability seems to get it from the attribute or automatically <s>(idk)</s>.
-    
+- content - extracted content as HTML, that is, with all links, images, tables...
+- textContent - extracted text; essentially content, but without html tags.
+- title - page title from the corresponding tag in the head.
+- lang - two-letter code of the page language, Readability seems to get it from the attribute or automatically <s>(idk)</s>.
 
 ---
 
@@ -62,7 +53,7 @@ The code was originally built scalable, but we've come to the realization that s
 
 ### Finding a name for the project
 
-We are simple people, text extraction means txt. The word is short, let it be a subdomain, i.e. txt.**.** ([txt.dc09.ru](http://txt.dc09.ru), [txt.artegoser.ru](http://txt.artegoser.ru)). So it will just be ***txtdot***.
+We are simple people, text extraction means txt. The word is short, let it be a subdomain, i.e. txt.**.** ([txt.dc09.ru](http://txt.dc09.ru), [txt.artegoser.ru](http://txt.artegoser.ru)). So it will just be **_txtdot_**.
 
 ### Links
 
@@ -74,9 +65,9 @@ Documentation: GitHub Pages ([https://txtdot.github.io/documentation](https://tx
 
 ```javascript
 const credit = {
-    translatedBy: "artegoser",
-    source: ["https://t.me/dcat09/357", "https://t.me/dcat09/358"],
-    author: "DarkCat09",
-    license: "CC-BY 4.0"
-}
+  translatedBy: "artegoser",
+  source: ["https://t.me/dcat09/357", "https://t.me/dcat09/358"],
+  author: "DarkCat09",
+  license: "CC-BY 4.0",
+};
 ```
