@@ -27,7 +27,7 @@ fs.writeFileSync("./index.json", JSON.stringify(index, null, 2));
 
 fs.writeFileSync(
   "./README.md",
-  `# My blog posts\n\nLinks currentrly not working\n\n${index
-    .map((post) => `- [${post.title}](${post.id})`)
+  `# My blog posts\n\n${index
+    .map((post) => `- [${post.title}](https://artegoser.ru/blog/${post.id})`)
     .join("\n")}`
 );
