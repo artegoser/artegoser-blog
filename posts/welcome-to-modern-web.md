@@ -6,7 +6,7 @@ datePublished: Tue Dec 12 2023 11:54:56 GMT+0000 (Coordinated Universal Time)
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2FaCKyEEtis/upload/324f241c736634b8bcfe4ff92ab2751f.jpeg
 tags: express, proxy, web-development, security, nodejs, webdev, typescript, fastify, devstory, selfhosted, selfhosting
 dots:
-  - Translation to English
+  - Translation
 coAuthors:
   - img: https://avatars.githubusercontent.com/u/50486086?v=4
     name: Darkcat09
