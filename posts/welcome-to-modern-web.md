@@ -13,12 +13,9 @@ coAuthors:
     name: Darkcat09
     link: https://github.com/DarkCat09
     dots:
-      - Original author
-      - CC-BY 4.0
-      - text: "Source 1"
+      - Original author (CC-BY 4.0)
+      - text: "Source"
         link: https://t.me/dcat09/357
-      - text: "Source 2"
-        link: https://t.me/dcat09/358
 ---
 
 Welcome to the modern web: sites here load for **5-10 seconds**, show **at least** two overlapping modal windows with a request to register and subscribe, collect analytical data, leave for a block of text a couple of pixels - and why do we need it, the most important thing on the page is video advertising and panels with a request to register, subscribe, and in the worst case there is a useful site menu.
