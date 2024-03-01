@@ -3,7 +3,6 @@ title: "ONLang: json based programming language"
 seoTitle: "ONLang programming language"
 seoDescription: "ONLang programming language - language running on json"
 datePublished: Mon Aug 15 2022 23:07:59 GMT+0000 (Coordinated Universal Time)
-slug: onlang-json-based-programming-language
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681826187604/b90d4b84-4a06-4383-81a7-e59f5e06fe05.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1660604821977/TsuxDsAQm.png
 tags: experiment, json, yaml, programming-languages, onlang

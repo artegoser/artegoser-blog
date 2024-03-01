@@ -4,9 +4,25 @@
     "seoTitle": "Welcome to the modern web or why we need site compressors",
     "seoDescription": "Welcome to the modern web: sites here load for 5-10 seconds, show at least two overlapping modal windows, etc. That's where site compressors come in.",
     "datePublished": "Tue Dec 12 2023 11:54:56 GMT+0000 (Coordinated Universal Time)",
-    "slug": "welcome-to-modern-web",
     "cover": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2FaCKyEEtis/upload/324f241c736634b8bcfe4ff92ab2751f.jpeg",
     "tags": "express, proxy, web-development, security, nodejs, webdev, typescript, fastify, devstory, selfhosted, selfhosting",
+    "dots": [
+      "Translation to English"
+    ],
+    "coAuthors": [
+      {
+        "img": "https://avatars.githubusercontent.com/u/50486086?v=4",
+        "name": "Darkcat09",
+        "link": "https://github.com/DarkCat09",
+        "dots": [
+          "Original author (CC-BY 4.0)",
+          {
+            "text": "Source",
+            "link": "https://t.me/dcat09/357"
+          }
+        ]
+      }
+    ],
     "id": "welcome-to-modern-web"
   },
   {
@@ -14,7 +30,6 @@
     "seoTitle": "AnoPaper: Story about how I created the notes service",
     "seoDescription": "In this article, I talk about how a school project grew into something bigger, how I created a notes service.",
     "datePublished": "Tue Jul 18 2023 08:58:43 GMT+0000 (Coordinated Universal Time)",
-    "slug": "anopaper-story-about-how-i-created-the-notes-service",
     "cover": "https://cdn.hashnode.com/res/hashnode/image/upload/v1689666281673/d71a9639-47a1-4ac8-a873-0b72a028bddc.png",
     "tags": "reactjs, notes, notesapp, devstory",
     "id": "anopaper-story-about-how-i-created-the-notes-service"
@@ -24,7 +39,6 @@
     "seoTitle": "ONLang programming language",
     "seoDescription": "ONLang programming language - language running on json",
     "datePublished": "Mon Aug 15 2022 23:07:59 GMT+0000 (Coordinated Universal Time)",
-    "slug": "onlang-json-based-programming-language",
     "cover": "https://cdn.hashnode.com/res/hashnode/image/upload/v1681826187604/b90d4b84-4a06-4383-81a7-e59f5e06fe05.png",
     "ogImage": "https://cdn.hashnode.com/res/hashnode/image/upload/v1660604821977/TsuxDsAQm.png",
     "tags": "experiment, json, yaml, programming-languages, onlang",

@@ -3,7 +3,6 @@ title: "Welcome to modern web"
 seoTitle: "Welcome to the modern web or why we need site compressors"
 seoDescription: "Welcome to the modern web: sites here load for 5-10 seconds, show at least two overlapping modal windows, etc. That's where site compressors come in."
 datePublished: Tue Dec 12 2023 11:54:56 GMT+0000 (Coordinated Universal Time)
-slug: welcome-to-modern-web
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2FaCKyEEtis/upload/324f241c736634b8bcfe4ff92ab2751f.jpeg
 tags: express, proxy, web-development, security, nodejs, webdev, typescript, fastify, devstory, selfhosted, selfhosting
 dots:

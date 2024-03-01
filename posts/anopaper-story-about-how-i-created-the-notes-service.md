@@ -3,7 +3,6 @@ title: "AnoPaper: Story about how I created the notes service"
 seoTitle: "AnoPaper: Story about how I created the notes service"
 seoDescription: "In this article, I talk about how a school project grew into something bigger, how I created a notes service."
 datePublished: Tue Jul 18 2023 08:58:43 GMT+0000 (Coordinated Universal Time)
-slug: anopaper-story-about-how-i-created-the-notes-service
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689666281673/d71a9639-47a1-4ac8-a873-0b72a028bddc.png
 tags: reactjs, notes, notesapp, devstory
 ---
