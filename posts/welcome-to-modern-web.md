@@ -6,6 +6,19 @@ datePublished: Tue Dec 12 2023 11:54:56 GMT+0000 (Coordinated Universal Time)
 slug: welcome-to-modern-web
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2FaCKyEEtis/upload/324f241c736634b8bcfe4ff92ab2751f.jpeg
 tags: express, proxy, web-development, security, nodejs, webdev, typescript, fastify, devstory, selfhosted, selfhosting
+dots:
+  - Translation to English
+coAuthors:
+  - img: https://avatars.githubusercontent.com/u/50486086?v=4
+    name: Darkcat09
+    link: https://github.com/DarkCat09
+    dots:
+      - Original author
+      - CC-BY 4.0
+      - text: "Source 1"
+        link: https://t.me/dcat09/357
+      - text: "Source 2"
+        link: https://t.me/dcat09/358
 ---
 
 Welcome to the modern web: sites here load for **5-10 seconds**, show **at least** two overlapping modal windows with a request to register and subscribe, collect analytical data, leave for a block of text a couple of pixels - and why do we need it, the most important thing on the page is video advertising and panels with a request to register, subscribe, and in the worst case there is a useful site menu.
@@ -62,12 +75,3 @@ Source code: GitHub ([https://github.com/txtdot/txtdot](https://github.com/txtdo
 Official instances: [https://txt.dc09.ru](https://txt.dc09.ru) [https://txt.artegoser.ru](https://txt.artegoser.ru)
 
 Documentation: GitHub Pages ([https://txtdot.github.io/documentation](https://txtdot.github.io/documentation))
-
-```javascript
-const credit = {
-  translatedBy: "artegoser",
-  source: ["https://t.me/dcat09/357", "https://t.me/dcat09/358"],
-  author: "DarkCat09",
-  license: "CC-BY 4.0",
-};
-```
