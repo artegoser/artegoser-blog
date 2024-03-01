@@ -37,11 +37,11 @@ Before I started writing frontend, I had an idea to add the ability to save note
 
 As I was writing, I had more and more ideas that could be implemented. This is also when the main idea came up, the idea that all data should store locally (except for public notes).
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689589068694/073c6304-f2ea-4c5d-89d5-e5d054f1e03d.png align="center")
+![Screenshot 1](https://cdn.hashnode.com/res/hashnode/image/upload/v1689589068694/073c6304-f2ea-4c5d-89d5-e5d054f1e03d.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689589145486/0f9ee7e8-80ca-44d8-bfab-d6178de0888d.png align="center")
+![Screenshot 2](https://cdn.hashnode.com/res/hashnode/image/upload/v1689589145486/0f9ee7e8-80ca-44d8-bfab-d6178de0888d.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689589179139/50e7d9a0-0782-40f8-b298-ff3e7d8118a1.png align="center")
+![Screenshot 3](https://cdn.hashnode.com/res/hashnode/image/upload/v1689589179139/50e7d9a0-0782-40f8-b298-ff3e7d8118a1.png)
 
 A lot of features and customizations have appeared in my service. For example: note addition using OpenAi api (gpt-3.5), collaborative editing and synchronization. It also started to have basic note editor capabilities (edit, search, delete, publish).
 

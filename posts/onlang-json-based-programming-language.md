@@ -8,7 +8,7 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1660604821977/TsuxD
 tags: experiment, json, yaml, programming-languages, onlang
 ---
 
-![https://raw.githubusercontent.com/artegoser/ONLang/master/static/logos/OnLang-transparent.png](https://raw.githubusercontent.com/artegoser/ONLang/master/static/logos/OnLang-transparent.png align="left")
+![OnLang logo](https://raw.githubusercontent.com/artegoser/ONLang/master/static/logos/OnLang-transparent.png)
 
 Recently, a person gave me the idea of ​​creating a programming language that runs on json. I really liked this idea. I thought it would be interesting to create such a language.
 
@@ -24,8 +24,8 @@ or
 
 ```json
 [
-  {let:["var", "world!"],
-  {print:["Hello", var]}
+  { "let": ["var", "world!"] }, 
+  { "print": ["Hello", { "var": "var" }] }
 ]
 ```
 
@@ -43,8 +43,8 @@ Initially, functions for output to the console were written.
 
 ```json
 [
-  {print:[...arguments]},
-  {println: [...arguments]}
+  {"print":["...arguments"]},
+  {"println": ["...arguments"]}
 ]
 ```
 
@@ -58,8 +58,8 @@ To be able to add, subtract, compare values, the `calc` and `comp` functions was
 
 ```json
 [
-  {calc: [2, "*", 2]}, //return 4
-  {comp: [2, ">", 3] //return false
+  {"calc": [2, "*", 2]}, //return 4
+  {"comp": [2, ">", 3]} //return false
 ]
 ```
 
